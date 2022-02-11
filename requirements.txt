@@ -1,0 +1,4 @@
+Flask
+PyRSS2Gen
+pytz
+feedparser

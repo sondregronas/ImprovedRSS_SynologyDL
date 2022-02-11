@@ -1,0 +1,19 @@
+{
+  "title": "Videos",
+  "size": 50,
+
+  "feeds": [
+    {
+      "name": "1080p Results",
+      "source": "http://example.com/rss_search/1080p",
+      "prefix": "[1080p]",
+      "size": 25
+    },
+    {
+      "name": "2160p Results",
+      "source": "http://example.com/rss_search/2160p",
+      "prefix": "[4K]",
+      "size": 25
+    }
+  ]
+}
